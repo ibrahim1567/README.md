@@ -6,4 +6,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Ibrahim] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ibrahim](https://github.com/ibrahim1567) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/).
